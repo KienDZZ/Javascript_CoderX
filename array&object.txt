@@ -1,0 +1,1 @@
+mảng dùng để khai báo nhiều đối tượng, object dùng để khai báo thuộc tính của đối tượng
